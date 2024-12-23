@@ -13,7 +13,7 @@ lo convierte en un archivo mp3 la diseñe con el fin practicar un poco.
 - pip install -r rquirements.txt<br>
 <br>
 #### INSTALACION EN LINUX<br>
-INSTALLAR PYTHON3<br>
+- INSTALLAR PYTHON3<br>
 - apt-get install python3 -y<br>
 - INSTALAR REQUERIMIENTOS<br>
 - pip install requirements.txt<br>
@@ -25,3 +25,5 @@ INSTALLAR PYTHON3<br>
 
 ##### python3 for windows
 [python3 for windows](https://www.python.org/downloads/ "python3 for windows")
+"
+[Buy me a coffee](https://paypal.me/verserker34/ "Buy me a coffee")
