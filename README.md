@@ -25,5 +25,9 @@ lo convierte en un archivo mp3 la diseñe con el fin practicar un poco.
 
 ##### python3 for windows
 [python3 for windows](https://www.python.org/downloads/ "python3 for windows")
-<br<
+<br>
 [Buy me a coffee](https://paypal.me/verserker34/ "Buy me a coffee")
+<br>
+tiktok video how to install & used in windows
+[tiktok](https://www.tiktok.com/@v3nomscool?is_from_webapp=1&sender_device=pc "tiktok")
+
