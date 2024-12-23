@@ -7,16 +7,18 @@ lo convierte en un archivo mp3 la diseñe con el fin practicar un poco.
 
 ####INSTALACION EN WINDOWS
 
-#####PARA WINDOWS 10 O 11
--INSTALAR PYTHON3.10 O SUPERIOR
--USAR COMANDO EN EL CMD O POWERSHELL
--<pip install -r rquirements.txt
-
-####INSTALACION EN LINUX
-INSTALLAR PYTHON3
--apt-get install python3 -y
--INSTALAR REQUERIMIENTOS
--pip install requirements.txt 
+#####PARA WINDOWS 10 O 11<br>
+-INSTALAR PYTHON3.10 O SUPERIOR<br>
+-USAR COMANDO EN EL CMD O POWERSHELL<br>
+-<pip install -r rquirements.txt<br>
+<br>
+####INSTALACION EN LINUX<br>
+INSTALLAR PYTHON3<br>
+-apt-get install python3 -y<br>
+-INSTALAR REQUERIMIENTOS<br>
+-pip install requirements.txt<br>
+<br>
+<br>
 
 
 #####RECUERDA ESTA UNA INTERFAZ GRAFICA SOLO FUNCIONA EN ENTORNOS DE ESCRITORIO
