@@ -1,0 +1,25 @@
+##uso en WINDOWS 10 o 11
+##para instalar el programa en windows el comando es ##pip install -r requirements.txt
+##recuerda tener instalado python3 cualquier version arriba de ##python3.10
+
+##uso en LINUX
+##pip install python3 -y
+##pip install requirements.txt
+
+##how to used in WINDOWS 10 or 11
+##first please install python3 in version python3.10 or python3.12
+##for install the requirements please use this command ## pip install -r requirements.txt
+
+##how to use in LINUX
+##first install python3 whit the command ## apt install python3 -y
+### and install the requirements.txt whit the command ## pip install requirement.txt
+
+#si no funciona trata de instalarlo como administrador en windows o super usuario en linux
+
+#if you try to install and dont work try to install like admin in windows and super user in linux 
+
+
+pytube==10.9.3
+moviepy==1.0.3
+yt_dlp==2021.12.1
+Pillow==8.4.0
