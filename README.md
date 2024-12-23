@@ -32,5 +32,5 @@ tiktok video how to install & used in windows
 [tiktok](https://www.tiktok.com/@v3nomscool?is_from_webapp=1&sender_device=pc "tiktok")
 <br>
 <br>
-[![Watch the video youtube ](https://th.bing.com/th/id/OIP.wCA7YccI30Rc5wBWPnP6UgHaHa?w=640&h=640&rs=1&pid=ImgDetMain)](https://youtu.be/fFiPEDTdoXw?si=D8jkBMghF-lFphmC)
+[![Watch the video youtube ](https://www.youtube.com/)](https://youtu.be/fFiPEDTdoXw?si=D8jkBMghF-lFphmC)
 
